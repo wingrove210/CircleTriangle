@@ -1,0 +1,5 @@
+﻿  CircleTriangle.cpp
+C:\Users\Admin\source\repos\CircleTriangle\CircleTriangle\CircleTriangle.cpp(15,12): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  CircleTrianglemain.cpp
+  Создание кода...
+  CircleTriangle.vcxproj -> C:\Users\Admin\source\repos\CircleTriangle\x64\Debug\CircleTriangle.exe
